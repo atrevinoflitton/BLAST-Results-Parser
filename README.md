@@ -1,5 +1,6 @@
 # BLAST-Results-Parser
-A program to parse a BLASTx results file, ideal for report summaries. 
+A program complete with a GUI to parse a BLASTx results file, ideal for report summaries. 
+The GUI allows you to add addition comments to the parse results and save as a new file.
 
 * Searches for the Best Hit, E-value and Identities
 
